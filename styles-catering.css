@@ -1,0 +1,19 @@
+.center {
+  width: 65%;
+}
+#catering-content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#catering-content ul {
+  font-family: 'Prata', serif;
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  list-style: none;
+  padding-inline-start: 0px;
+}
+#catering-content li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
