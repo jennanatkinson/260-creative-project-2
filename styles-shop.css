@@ -22,6 +22,24 @@
 .break {
   margin-top: 150px;
 }
+.shop-info-button {
+  background-color: #3F5957;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.shop-info-button:hover {
+  background-color: #73908F;
+}
+.shop-nutrition {
+  margin-top: 20px;
+}
 #item-1-pic {
   background-image: url("images/shop/blueberry-muffins.jpg");
 }
@@ -57,9 +75,9 @@
     /*
     padding-left: 100px;
     padding-right: 100px;*/
+    height: 500px;
     width: 50%;
     padding-top: 200px;
-    padding-bottom: 200px;
   }
   .shop-item-pic {
     width: 500px;
