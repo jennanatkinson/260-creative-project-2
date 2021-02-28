@@ -34,8 +34,8 @@
 }
 #query-answer {
   display: block;
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .recipe_response {
   display: block;/*grid;
@@ -56,20 +56,14 @@
 @media screen and (min-width: 400px) {
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 900px) {
   #query-answer {
     display: flex;
     margin-left: 150px;
     margin-right: 150px;
   }
   #query-answer img {
-    width: 150px;
-    height: 150px;
-  }
-}
-@media screen and (min-width: 1000px) {
-  #query-answer img {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
 }
